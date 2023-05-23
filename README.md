@@ -4,4 +4,7 @@
 
 Abaixo temos o link de uma foto do meu projeto!
  <img src="https://github.com/tailadoliveira/ProjetoFinalInfusion_Udemy/assets/113481645/85c40d03-ba2a-4f21-9e08-e4042def50a7/>
+ 
+ Ou se quiser acessar meu projeto:
+ https://tailadoliveira.github.io/ProjetoFinalInfusion_Udemy/
                                                                                                                                          
